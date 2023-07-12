@@ -1,2 +1,0 @@
-The model predicts credit risk as good/bad using decision trees.
-Discussed the prospect of dimensionality reduction (PCA), visualized the decision tree using sklearn, tuned the parameters using GridSearch, and used boosting techniques like Adaboost.
